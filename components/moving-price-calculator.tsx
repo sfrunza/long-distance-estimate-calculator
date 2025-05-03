@@ -113,7 +113,7 @@ const MovingPriceCalculator = () => {
   return (
     <Card className="w-full max-w-md mx-auto">
       <CardHeader>
-        <CardTitle>Long Distance Price Calculator</CardTitle>
+        <CardTitle>Long Distance Price Calculator!!!</CardTitle>
       </CardHeader>
       <CardContent>
         <div className="space-y-6">
